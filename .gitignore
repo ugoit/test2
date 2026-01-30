@@ -1,0 +1,8 @@
+# Python build / packaging
+*.egg-info/
+
+# Virtual environments
+.venv/
+
+# uv
+uv.lock
